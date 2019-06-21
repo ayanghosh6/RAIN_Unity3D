@@ -8,4 +8,3 @@ The unity scene
 The Unity side and the ROS side are connected by ROS Sharp (https://github.com/siemens/ros-sharp/wiki)
 
 
-A LEAP motion sensor is used to get sense the operator's hands positions and gestures, which are utilised as the control inputs for the robot. 
